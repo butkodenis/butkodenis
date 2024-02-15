@@ -12,13 +12,9 @@
 
 <br/>
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-- My name is Butko Denis and I'm a Full-stack developer/SysAdmin engineer
-
-- I'm from Ukraine, living in Zaporizhzhia
-
-- I’m currently learning Redux
+- My name is Butko Denis, and I serve as a Full-stack Developer/SysAdmin Engineer. Currently, I am actively contributing my skills at Zaporizhzhia State Medical University [ZSMU](https://mphu.edu.ua).
 
 - Tech I work on :
 
